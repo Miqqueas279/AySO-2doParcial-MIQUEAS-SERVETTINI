@@ -1,1 +1,4 @@
-# AySO-2doParcial-MIQUEAS-SERVETTINI
+Miqueas
+servettini
+Div 316-2
+DNI 45072595
